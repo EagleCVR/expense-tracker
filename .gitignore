@@ -1,0 +1,29 @@
+# Maven
+/target
+
+# IntelliJ / Eclipse / VSCode
+*.iml
+.idea/
+*.log
+*.class
+*.swp
+.DS_Store
+.project
+.settings/
+.classpath
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.bak
+.vscode
+
+# OS
+*.tmp
+
+# H2 DB
+*.mv.db
+
+# Node
+ui/node_modules/
+ui/build
